@@ -5,4 +5,4 @@ Camille Mormal's website is one of a kind, and features a clean and minimalist d
 
 Each section displays a gallery of the artist's work with images and captions describing the pieces. I tried to recreate the sliding images but unfortunately was unable to achieve the level of smoothness Camille's website offered.
 
-# You can see my version by visiting : https://sherali2022000.github.io/SlidingImages-Html-CSS/
+#3 You can see my version by visiting : https://sherali2022000.github.io/SlidingImages-Html-CSS/
